@@ -1,0 +1,23 @@
+.row_block
+  {
+  
+	padding-top:20px;
+	  padding-left:20px;
+	  padding-bottom:20px;
+	  border-style: dashed;
+	      margin: 8px;
+}
+.get_code
+{
+}
+.hide_code {
+  position:absolute;
+  left:-9999px
+}
+.button_tag  
+  {  
+padding-left:224px;
+}
+.content{
+background-color:#d500ff;
+}
